@@ -9,7 +9,8 @@ ____
 
 There are 4 notebooks to this project.
 
-1. **<a href="https://github.com/netanellevine/Data-Visualization/blob/main/Rain%20Prediction.ipynb" target="_blank">Rain Prediction</a>** - The first notebook's goal was to improve our classification notebook from last semester by using new models and techniques we learned this semester.
+1. **<a href="https://github.com/netanellevine/Data-Visualization/blob/main/Rain%20Prediction.ipynb" target="_blank">Rain Prediction</a>** - The first notebook's goal was to improve our classification notebook from last semester (Classification of whether it will be rainning tomorrow or not)  
+by using new models and techniques we learned this semester.
 
 
 2. **<a href="https://github.com/netanellevine/Data-Visualization/blob/main/Fashion_MNIST.ipynb" target="_blank">Fashion MNIST</a>** -  In the second notebook we created a dataset from clothes images and our goal was to find the best way to recognize for each image the right clothing.
