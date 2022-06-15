@@ -9,7 +9,7 @@ ____
 
 There are 4 notebooks to this project.
 
-1. <a href="https://github.com/netanellevine/Data-Visualization/blob/main/Rain%20Prediction.ipynb" target="_blank">Rain Prediction</a> - The first notebook's goal was to improve our classification notebook from last semester by using new models and techniques we learned this semester.
+1. **<a href="https://github.com/netanellevine/Data-Visualization/blob/main/Rain%20Prediction.ipynb" target="_blank">Rain Prediction</a>** - The first notebook's goal was to improve our classification notebook from last semester by using new models and techniques we learned this semester.
 
 <a href="https://github.com/netanellevine/Data-Visualization/blob/main/Rain%20Prediction.ipynb" target="_blank">Rain Prediction</a>
 
