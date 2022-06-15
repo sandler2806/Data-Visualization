@@ -19,11 +19,12 @@ There are 4 notebooks to this project.
 
 
 4. **<a href="https://github.com/netanellevine/Data-Visualization/blob/main/kids_drawing_pandas.ipynb" target="_blank">Kids Drawing Pandas</a>** -  In the fourth and last notebook we get drawing of kids and by understanding the data with the help of Pandas our goal was to answer the following questions:
-  a. How many different lines this drawing contains? 
-  b. What is the average pressure and the length(euclidean distance) of each line?
-  c. How many times the kid who drew this doodle raised his hand during the doodling?
-  d. Does this shape open or close?
- 
+       
+        a. How many different lines this drawing contains? 
+        b. What is the average pressure and the length(euclidean distance) of each line?
+        c. How many times the kid who drew this doodle raised his hand during the doodling?
+        d. Does this shape open or close?
+
 
 
 
