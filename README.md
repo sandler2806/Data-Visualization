@@ -18,7 +18,7 @@ There are 4 notebooks to this project.
 3. **<a href="https://github.com/netanellevine/Data-Visualization/blob/main/Cats%20Vs%20Dogs%20-%20Classification-checkpoint.ipynb/" target="_blank">Cats Vs Dogs</a>** -  In the third notebook we created a dataset from cats and dogs images and we try to find the best way to recognize for each image the right answer. Our model will predict if the image is cat or a dog (cat = 1, dog = 2).
 
 
-4. **<a href="https://github.com/netanellevine/Data-Visualization/blob/main/kids_drawing_pandas.ipynb" target="_blank">Kids Drawing Pandas</a>** -  In the fourth and last notebook we get drawing of kids and by understanding the data with the help of Pandas our goal was to answer the following questions:
+4. **<a href="https://github.com/netanellevine/Data-Visualization/blob/main/kids_drawing_pandas.ipynb" target="_blank">Kids Drawing - (Pandas)</a>** -  In the fourth and last notebook we get drawing of kids and by understanding the data with the help of Pandas our goal was to answer the following questions:
        
         a. How many different lines this drawing contains? 
         b. What is the average pressure and the length(euclidean distance) of each line?
